@@ -1,0 +1,7 @@
+*.zip
+*.stackdump
+/cmake-build*
+.idea/
+out
+present/
+mapping.txt

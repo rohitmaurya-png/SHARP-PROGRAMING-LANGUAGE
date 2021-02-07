@@ -1,0 +1,14 @@
+mod main;
+
+/**                          
+* Created by Rohit Maurya on 6/12/2020            
+* Description:                             
+*/
+class platform {
+    /**
+     * Jan 18, 2018 Build release of Sharp 0.2.0, this contains all the base level
+     * support for sharp as well as major performance enhancments and improvements
+     * throughout the platform.
+     */
+    static const alpha := 2;
+}
