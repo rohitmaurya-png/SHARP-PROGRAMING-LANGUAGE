@@ -234,11 +234,11 @@ def main() {
 
 ## Getting Started
 
-Thdocumentation below explains how to get you started with using sharp.
+The documentation below explains how to get you started with using sharp.
 
 #### Downloading
 
-To download Sharp go to ``releases`` and download the latest release of Sharp. Unpack the folder revealing the contents inside. Sharp is currently supporting 64 & 32 bit linux and windows operating systems, below covers how to install sharp on both systems:
+To download Sharp go to ``releases`` folder. Sharp is currently supporting 64 & 32 bit linux and windows operating systems, below covers how to install sharp on both systems:
 
 #### Installing on Windows
 
